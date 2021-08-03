@@ -6,3 +6,32 @@ div {
     background-size: cover;
     color: white;
 }
+.about {
+    background-image: url(/assets/s_image.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+.contact {
+    background-image: url(/assets/c_image.jpg);
+    background-size: cover;
+    color: white;
+}
+input {
+    width: 100%;
+    background-color: transparent;
+}
+
+::placeholder {
+    color: white;
+}
+textarea {
+    resize: none;
+    background-color: transparent;
+    color: white;
+}
+button {
+    background-color: transparent;
+}
+
+
