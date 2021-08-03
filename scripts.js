@@ -38,7 +38,7 @@ $(document).ready(function()
             return;
         }
 
-        alert('Subject "x", Yourrequest has been received and is currently being reviewed. Thanks for your patience')
+        alert('Welcome to Delani Studio, Your request has been received and is currently being reviewed. Thanks for your patience')
         event.preventDefault();
         this.reset();
     });
