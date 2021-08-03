@@ -33,5 +33,74 @@ textarea {
 button {
     background-color: transparent;
 }
+.content-overlay_1 {
+    background: rgba(187, 38, 38, 0.13);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    display: none;
+}
+
+.content-overlay_2 {
+    background: rgba(187, 38,38, 0.13);
+    position: absolute;
+    height: 100%;
+    opacity: 1;
+    width: 100%;
+    display: none;
+}
+.content-overlay_3 {
+    background: rgba(187,38,38, 0.13);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: none;
+}
+
+.content-overlay_4 {
+    background: rgba(187,38,38, 0.13);
+    position: absolute;
+    height: 100%;
+    opacity: 1;
+    width: 100%;
+    display: none;
+}
+.content-overlay_5 {
+    background: rgba(187,38,38, 0.13);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    display: none;
+}
+
+.content-overlay_6 {
+    background: rgba(187,38,38 0.13);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    display: none;
+}
+.content-overlay_7 {
+    background: rgba(187,38, 38, 0.13);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    display: none;
+}
+
+.content-overlay_8 {
+    background: rgba(187, 38,38 0.13);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: none;
+    opacity: 1;
+}
+
+
 
 
